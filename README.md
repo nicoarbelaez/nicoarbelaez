@@ -1,4 +1,7 @@
 # ¡Hola, soy Nicolás Arbelaez! 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/111522939?s=400&u=8eefb901774ba8adc4f5c74efb7fe60c90be56a3&v=4" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-arbelaez-tapias) 
 
@@ -6,25 +9,79 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ## ✨ Tecnologías Destacadas
 
-### Lenguajes:
-| Java | JavaScript | Python | TypeScript |
-|------|------------|--------|------------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>|
+<div align="center">
+  <h3>Lenguajes:</h3>
+  <table>
+    <tr>
+      <th align="center">Java</th>
+      <th align="center">JavaScript</th>
+      <th align="center">Python</th>
+      <th align="center">TypeScript</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/></td>
+    </tr>
+  </table>
+</div>
 
-### Frameworks y Herramientas:
-| Spring Boot | Next.js | Tailwind CSS | Astro |
-|-------------|---------|--------------|-------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="55" height="55"/>|
+<div align="center">
+  <h3>Frameworks y Herramientas:</h3>
+  <table>
+    <tr>
+      <th align="center">Astro</th>
+      <th align="center">Next.js</th>
+      <th align="center">Spring Boot</th>
+      <th align="center">Tailwind CSS</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="55" height="55"/></td>
+    </tr>
+  </table>
+</div>
 
-### Bases de Datos:
-| MySQL | PostgreSQL | MongoDB |
-|-------|------------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/>|
+<div align="center">
+  <h3>Bases de Datos:</h3>
+  <table>
+    <tr>
+      <th align="center">MongoDB</th>
+      <th align="center">MySQL</th>
+      <th align="center">PostgreSQL</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="55" height="55"/></td>
+    </tr>
+  </table>
+</div>
 
-### Entornos y Otros:
-| Node.js | Git | Docker | Postman |
-|---------|-----|--------|---------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>|
+<div align="center">
+  <h3>Entornos y Otros:</h3>
+  <table>
+    <tr>
+      <th align="center">Docker</th>
+      <th align="center">Git</th>
+      <th align="center">Kubernetes</th>
+      <th align="center">Node.js</th>
+      <th align="center">Postman</th>
+      <th align="center">VSCode</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/></td>
+    </tr>
+  </table>
+</div>
 
 ## 🏆 Proyectos Destacados
 
