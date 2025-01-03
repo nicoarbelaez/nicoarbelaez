@@ -1,6 +1,6 @@
 # ¡Hola, soy Nicolás Arbelaez! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-arbelaez-tapias/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-arbelaez-tapias) 
 
 Soy desarrollador backend con especialización en Java y Spring Boot, apasionado por crear soluciones tecnológicas que resuelvan problemas reales y generen valor para las organizaciones. Actualmente soy estudiante de Ingeniería de Sistemas en la Universidad Santiago de Cali, y cuento con experiencia trabajando en proyectos utilizando herramientas modernas como Docker, Next.js y Tailwind CSS. Mi compromiso con la mejora continua y mi habilidad para trabajar en equipo hacen que me destaque en cualquier entorno de desarrollo.
 
