@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-arbelaez-tapias) 
 
-Soy desarrollador backend con especialización en Java y Spring Boot, apasionado por crear soluciones tecnológicas que resuelvan problemas reales y generen valor para las organizaciones. Actualmente soy estudiante de Ingeniería de Sistemas en la Universidad Santiago de Cali, y cuento con experiencia trabajando en proyectos utilizando herramientas modernas como Docker, Next.js y Tailwind CSS. Mi compromiso con la mejora continua y mi habilidad para trabajar en equipo hacen que me destaque en cualquier entorno de desarrollo.
+Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formación en Java y especialización en el framework Spring Boot. Cuento con experiencia en proyectos que abarcan tecnologías como Python, JavaScript y bases de datos tanto relacionales como no relacionales. Mi pasión por la resolución de problemas y la optimización de procesos me impulsa a buscar constantemente soluciones innovadoras y eficientes. Destaco por mi capacidad para adaptarme rápidamente a nuevas herramientas y metodologías, lo que me permite integrarme eficazmente en equipos dinámicos. Mi objetivo profesional es contribuir al desarrollo de aplicaciones robustas y escalables, generando impacto positivo en los proyectos y el negocio.
 
 ## ✨ Tecnologías Destacadas
 
