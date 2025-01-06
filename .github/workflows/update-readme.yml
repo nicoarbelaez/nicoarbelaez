@@ -1,4 +1,4 @@
-name: Update README with recent activity
+name: Update README
 
 on:
   schedule:
@@ -6,19 +6,20 @@ on:
   workflow_dispatch: # Permite ejecución manual
 
 jobs:
-  update-readme:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Update README
+      - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: ":zap: Actualizando actividad reciente en README"
-          EMPTY_COMMIT_MSG: ":memo: Sin actividad reciente para mostrar"
-          MAX_LINES: 5
-          TARGET_FILE: "README.md"
+          EMPTY_COMMIT_MSG: ":memo: Sin actividad reciente en los últimos eventos"
