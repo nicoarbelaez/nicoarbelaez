@@ -135,6 +135,9 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoarbelaez&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </p>
 
+### 💣 Actividad reciente
+<!--START_SECTION:activity-->
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nicoarbelaez&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
