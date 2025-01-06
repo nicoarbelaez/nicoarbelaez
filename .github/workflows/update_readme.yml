@@ -14,6 +14,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README
-        uses: Readme-Workflows/recent-activity@v2.4.1
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: ":zap: Actualizando actividad reciente en README"
+          EMPTY_COMMIT_MSG: ":memo: Sin actividad reciente para mostrar"
+          MAX_LINES: 5
+          TARGET_FILE: "README.md"
