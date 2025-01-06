@@ -1,86 +1,16 @@
-name: Update README with recent activity
+name: Update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Ejecuta cada 6 horas
-  workflow_dispatch: # Permite ejecución manual
+    - cron: '* */6 * * *'
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Clonar el repositorio
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # 2. Configurar Node.js (necesario para usar herramientas CLI)
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-
-      # 3. Instalar dependencias para interactuar con la API de GitHub
-      - name: Install dependencies
-        run: npm install @octokit/rest
-
-      # 4. Ejecutar el script para actualizar el README
-      - name: Update README
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          node <<EOF
-          const { Octokit } = require("@octokit/rest");
-          const fs = require("fs");
-
-          // Inicializar Octokit con el token
-          const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
-
-          // Usuario actual del repositorio
-          const owner = "${{ github.repository_owner }}";
-          const repo = "${{ github.event.repository.name }}";
-
-          // Obtener las últimas 5 actividades públicas
-          async function getRecentActivity() {
-            const { data: events } = await octokit.activity.listPublicEventsForUser({ username: owner, per_page: 5 });
-            return events.map(event => {
-              const repoName = event.repo.name;
-              const action = event.type.replace("Event", "");
-              const time = new Date(event.created_at).toLocaleString();
-              return `- **[${repoName}](https://github.com/${repoName})**: ${action} (${time})`;
-            });
-          }
-
-          // Actualizar el README con las actividades recientes
-          async function updateReadme() {
-            const activities = await getRecentActivity();
-            const readmePath = "README.md";
-            let readmeContent = fs.readFileSync(readmePath, "utf-8");
-
-            const startMarker = "<!-- ACTIVITY:START -->";
-            const endMarker = "<!-- ACTIVITY:END -->";
-
-            const newActivity = `${startMarker}\n${activities.join("\n")}\n${endMarker}`;
-
-            // Reemplazar la sección de actividad en el README
-            const updatedContent = readmeContent.replace(
-              new RegExp(`${startMarker}[\\s\\S]*${endMarker}`, "gm"),
-              newActivity
-            );
-
-            fs.writeFileSync(readmePath, updatedContent);
-          }
-
-          updateReadme()
-            .then(() => console.log("README actualizado"))
-            .catch((err) => console.error("Error actualizando README:", err));
-          EOF
-
-      # 5. Hacer commit y push de los cambios
-      - name: Commit and push changes
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add README.md
-          git commit -m "chore: Update recent activity in README"
-          git push
