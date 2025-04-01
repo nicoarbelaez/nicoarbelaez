@@ -137,10 +137,10 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ### 💣 Actividad reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/jevg2003/Picksy/pull/1) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
-2. 💪 Opened PR [#1](https://github.com/jevg2003/orderlys1.0/pull/1) in [jevg2003/orderlys1.0](https://github.com/jevg2003/orderlys1.0)
-3. 🚀 Published release [3.0.4](https://github.com/nicoarbelaez/defi/releases/tag/3.0.4) in [nicoarbelaez/defi](https://github.com/nicoarbelaez/defi)
-4. 🔒 Closed issue [#3](https://github.com/nicoarbelaez/platzi-git-github/issues/3) in [nicoarbelaez/platzi-git-github](https://github.com/nicoarbelaez/platzi-git-github)
+1. 💪 Opened PR [#2](https://github.com/jevg2003/Picksy/pull/2) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+2. 💪 Opened PR [#1](https://github.com/jevg2003/Picksy/pull/1) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+3. 💪 Opened PR [#1](https://github.com/jevg2003/orderlys1.0/pull/1) in [jevg2003/orderlys1.0](https://github.com/jevg2003/orderlys1.0)
+4. 🚀 Published release [3.0.4](https://github.com/nicoarbelaez/defi/releases/tag/3.0.4) in [nicoarbelaez/defi](https://github.com/nicoarbelaez/defi)
 5. 🎉 Merged PR [#4](https://github.com/nicoarbelaez/platzi-git-github/pull/4) in [nicoarbelaez/platzi-git-github](https://github.com/nicoarbelaez/platzi-git-github)
 <!--END_SECTION:activity-->
 
