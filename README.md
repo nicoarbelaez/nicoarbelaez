@@ -137,11 +137,11 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ### 💣 Actividad reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
-2. 💪 Opened PR [#2](https://github.com/jevg2003/Picksy/pull/2) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
-3. 💪 Opened PR [#1](https://github.com/jevg2003/Picksy/pull/1) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
-4. 💪 Opened PR [#1](https://github.com/jevg2003/orderlys1.0/pull/1) in [jevg2003/orderlys1.0](https://github.com/jevg2003/orderlys1.0)
-5. 🎉 Merged PR [#4](https://github.com/nicoarbelaez/platzi-git-github/pull/4) in [nicoarbelaez/platzi-git-github](https://github.com/nicoarbelaez/platzi-git-github)
+1. ❌ Closed PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
+2. 💪 Opened PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
+3. 💪 Opened PR [#2](https://github.com/jevg2003/Picksy/pull/2) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+4. 💪 Opened PR [#1](https://github.com/jevg2003/Picksy/pull/1) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+5. 💪 Opened PR [#1](https://github.com/jevg2003/orderlys1.0/pull/1) in [jevg2003/orderlys1.0](https://github.com/jevg2003/orderlys1.0)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
