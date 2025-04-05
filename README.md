@@ -137,11 +137,11 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ### 💣 Actividad reciente
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
-2. 💪 Opened PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
-3. 💪 Opened PR [#2](https://github.com/jevg2003/Picksy/pull/2) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
-4. 💪 Opened PR [#1](https://github.com/jevg2003/Picksy/pull/1) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
-5. 💪 Opened PR [#1](https://github.com/jevg2003/orderlys1.0/pull/1) in [jevg2003/orderlys1.0](https://github.com/jevg2003/orderlys1.0)
+1. 🎉 Merged PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
+2. 💪 Opened PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
+3. ❌ Closed PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
+4. 💪 Opened PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
+5. 💪 Opened PR [#2](https://github.com/jevg2003/Picksy/pull/2) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
