@@ -137,11 +137,11 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ### 💣 Actividad reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/jevg2003/Picksy/pull/3) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
-2. 🎉 Merged PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
-3. 💪 Opened PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
-4. ❌ Closed PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
-5. 💪 Opened PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
+1. 💪 Opened PR [#4](https://github.com/jevg2003/Picksy/pull/4) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+2. 💪 Opened PR [#3](https://github.com/jevg2003/Picksy/pull/3) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+3. 🎉 Merged PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
+4. 💪 Opened PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
+5. ❌ Closed PR [#2](https://github.com/dfloaizab/OOProgramming/pull/2) in [dfloaizab/OOProgramming](https://github.com/dfloaizab/OOProgramming)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
