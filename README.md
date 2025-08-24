@@ -137,7 +137,7 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ### 💣 Actividad reciente
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/jevg2003/Picksy/pull/6) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+1. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3217243890) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
 2. ❗ Opened issue [#2](https://github.com/nicoarbelaez/my-store-picksy-api/issues/2) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
 3. 💪 Opened PR [#4](https://github.com/jevg2003/Picksy/pull/4) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
 4. 💪 Opened PR [#3](https://github.com/jevg2003/Picksy/pull/3) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
