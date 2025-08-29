@@ -137,10 +137,10 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 
 ### 💣 Actividad reciente
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/nicoarbelaez/readia/pull/2#issuecomment-3218331502) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-2. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3218301189) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-3. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3217243890) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-4. 💪 Opened PR [#3](https://github.com/jevg2003/Picksy/pull/3) in [jevg2003/Picksy](https://github.com/jevg2003/Picksy)
+1. 🎉 Merged PR [#3](https://github.com/nicoarbelaez/readia/pull/3) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+2. 🗣 Commented on [#2](https://github.com/nicoarbelaez/readia/pull/2#issuecomment-3218331502) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+3. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3218301189) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+4. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3217243890) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
 5. 🎉 Merged PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
 <!--END_SECTION:activity-->
 
