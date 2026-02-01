@@ -1,11 +1,13 @@
 # ¡Hola, soy Nicolás Arbelaez! 👋
+
 <p align="center" width="300">
    <img align="center" width="200" src="https://avatars.githubusercontent.com/u/111522939?s=400&u=8eefb901774ba8adc4f5c74efb7fe60c90be56a3&v=4" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-arbelaez-tapias) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white)](https://linkedin.com/in/nicolas-arbelaez-tapias)
+[![Platzi](https://img.shields.io/badge/Platzi-%2310B981?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/arbelaeznicolas636/)
 
-Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formación en Java y especialización en el framework Spring Boot. Cuento con experiencia en proyectos que abarcan tecnologías como Python, JavaScript y bases de datos tanto relacionales como no relacionales. Mi pasión por la resolución de problemas y la optimización de procesos me impulsa a buscar constantemente soluciones innovadoras y eficientes. Destaco por mi capacidad para adaptarme rápidamente a nuevas herramientas y metodologías, lo que me permite integrarme eficazmente en equipos dinámicos. Mi objetivo profesional es contribuir al desarrollo de aplicaciones robustas y escalables, generando impacto positivo en los proyectos y el negocio.
+Desarrollador Full Stack con enfoque en Backend y arquitectura de software. Implementa soluciones escalables utilizando Java (Spring Boot) y JavaScript (Next.js), con un enfoque técnico en la integración de Inteligencia Artificial y automatización de flujos de trabajo; posee capacidad demostrada para transformar requerimientos operativos en sistemas funcionales, optimizando la eficiencia mediante el desarrollo de herramientas personalizadas y con experiencia en el diseño de APIs REST, esquemas de seguridad OAuth/JWT y despliegues en entornos cloud. Propuesta Valor: mi objetivo es potenciar la eficiencia operativa mediante la implementación de automatizaciones inteligentes y soluciones de Inteligencia Artificial; me especializo en el desarrollo backend, garantizando la integridad de los datos y la escalabilidad de los sistemas, manteniendo una visión integral del producto a través de Next.js, aportando soluciones técnicas que priorizan la seguridad, la mantenibilidad y la optimización de procesos críticos para el negocio.
 
 ## ✨ Tecnologías Destacadas
 
@@ -68,52 +70,72 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
       <th align="center">Docker</th>
       <th align="center">Git</th>
       <th align="center">Kubernetes</th>
-      <th align="center">Node.js</th>
+      <th align="center">Supabase</th>
       <th align="center">Postman</th>
-      <th align="center">VSCode</th>
+      <th align="center">Antigravity</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="55" height="55"/></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="55" height="55"/></td>
+      <td align="center"><img src="https://brandlogos.net/wp-content/uploads/2025/12/google_antigravity-logo_brandlogos.net_qu4jc.png" title="Antigravity" alt="Antigravity" width="55" height="55"/></td>
     </tr>
   </table>
 </div>
 
 ## 🏆 Proyectos Destacados
 
-- **[Rate Book](https://github.com/nicoarbelaez/ratebook)**
-
-  ![Release](https://img.shields.io/github/v/release/nicoarbelaez/ratebook?style=flat-square)
-
-  - Tecnologías: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-  - Descripción: API para evaluación de libros, películas y series con autenticación JWT. Diseño adaptable con Tailwind CSS y un frontend moderno con Next.js.
-
-- **[DEFI](https://github.com/nicoarbelaez/defi)**
+- **[Trainer Elitez (DEFI)](https://github.com/nicoarbelaez/defi)**
 
   ![Release](https://img.shields.io/github/v/release/nicoarbelaez/defi?style=flat-square)
+  - Tecnologías: ![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googlesheets&logoColor=white) ![AppSheet](https://img.shields.io/badge/AppSheet-4285F4?style=flat-square&logo=google&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-  - Tecnologías: ![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googlesheets&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  - Descripción: Automatización de procesos fitness mediante scripts en TypeScript, eliminando el 100% de errores de cálculo manuales. Optimiza la gestión y control de asesorados para entrenadores y nutricionistas.
 
-  - Descripción: Automatización de hojas de Google Sheets para optimizar procesos de cliente. Implementación de TypeScript para mayor organización del proyecto.
+- **[ReadIA](https://readia.vercel.app)**
 
-- **[App Agricultura](https://github.com/nicoarbelaez/app-gricultura)**
+  ![Vercel](https://img.shields.io/badge/Vercel-Deploy-black?style=flat-square&logo=vercel)
+  - Tecnologías: ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 
-  ![Release](https://img.shields.io/github/v/release/nicoarbelaez/app-gricultura?style=flat-square)
+  - Descripción: Plataforma de IA para el diagnóstico técnico de capacidades TI mediante análisis predictivo con modelos LLM. Implementa flujos automatizados y arquitectura serverless para alta disponibilidad.
 
-  - Tecnologías: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+- **[High Quality Roofing Co](http://hqroofingco.com/)**
 
-  - Descripción: Aplicación para monitorear clima y controlar sistemas de riego mediante sensores. Diseño de interfaz intuitiva con Python.
+  ![Status](https://img.shields.io/badge/Status-Live-green?style=flat-square)
+  - Tecnologías: ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat-square&logo=googlesheets&logoColor=white)
+
+  - Descripción: Saneamiento técnico y de seguridad de la plataforma. Desarrollo de un plugin PHP a medida para integración de webhooks con Google Apps Script y optimización de rendimiento SEO.
+
+- **[Skyven Roofing](https://skyvenroofing.com)**
+
+  ![Status](https://img.shields.io/badge/Status-Live-green?style=flat-square)
+  - Tecnologías: ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Zoho](https://img.shields.io/badge/Zoho%20CRM-E53935?style=flat-square&logo=zoho&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+  - Descripción: Arquitectura de captación de leads con integración directa a CRM vía API. Optimización de tiempos de carga y seguridad perimetral mediante configuraciones avanzadas de CDN y SSL.
 
 ## 📚 Certificados
 
-- **Curso de Java Spring | Platzi**
-  > - Fecha de emisión: Noviembre 2024
-  > - [Ver certificado](https://platzi.com/p/arbelaeznicolas636/curso/1996-course/diploma/detalle/)
+- **Curso de Automatizaciones con n8n | Platzi**
+
+  > - Fecha de emisión: Agosto 2025
+  > - [Ver certificado](https://platzi.com/p/arbelaeznicolas636/curso/12245-n8n-lowcode/diploma/detalle/)
+
+- **Curso de Backend con Node.js: Base de Datos con PostgreSQL | Platzi**
+
+  > - Fecha de emisión: Marzo 2025
+  > - [Ver certificado](https://platzi.com/p/arbelaeznicolas636/curso/2507-backend-nodejs-postgres/diploma/detalle/)
+
+- **Curso de Backend con Node.js: Autenticación con Passport.js y JWT | Platzi**
+
+  > - Fecha de emisión: Abril 2025
+  > - [Ver certificado](https://platzi.com/p/arbelaeznicolas636/curso/2489-passport/diploma/detalle/)
+
+- **Curso de Backend con Node.js: API REST con Express.js | Platzi**
+
+  > - Fecha de emisión: Marzo 2025
+  > - [Ver certificado](https://platzi.com/p/arbelaeznicolas636/curso/2485-backend-nodejs/diploma/detalle/)
 
 - **Curso de Java Spring Security: Autenticación y Seguridad Web | Platzi**
   > - Fecha de emisión: Noviembre 2024
@@ -127,6 +149,7 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 - **Atención al Detalle:** Cuido cada aspecto del desarrollo para asegurar calidad y robustez en el código.
 
 ## 📊 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicoarbelaez&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoarbelaez&theme=gruvbox&hide_border=false">
@@ -136,7 +159,9 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 </p>
 
 ### 💣 Actividad reciente
+
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#3](https://github.com/nicoarbelaez/readia/pull/3) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
 2. 🗣 Commented on [#2](https://github.com/nicoarbelaez/readia/pull/2#issuecomment-3218331502) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
 3. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3218301189) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
@@ -145,6 +170,7 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=nicoarbelaez&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
@@ -154,5 +180,5 @@ Desarrollador backend y estudiante de Ingeniería de Sistemas con sólida formac
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nicoarbelaez&icon=3&color=2)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=nicoarbelaez&icon=3&color=2)](https://visitcount.itsvg.in)
