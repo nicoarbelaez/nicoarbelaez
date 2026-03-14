@@ -162,10 +162,10 @@ Desarrollador Full Stack con enfoque en Backend y arquitectura de software. Impl
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/nicoarbelaez/readia/pull/3) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-2. 🗣 Commented on [#2](https://github.com/nicoarbelaez/readia/pull/2#issuecomment-3218331502) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-3. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3218301189) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-4. 🗣 Commented on [#1](https://github.com/nicoarbelaez/readia/pull/1#issuecomment-3217243890) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+1. ❌ Closed PR [#1](https://github.com/nicoarbelaez/living-sports-app/pull/1) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+2. ℹ️ Reopened PR [#1](https://github.com/nicoarbelaez/living-sports-app/pull/1) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+3. ❌ Closed PR [#1](https://github.com/nicoarbelaez/living-sports-app/pull/1) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+4. 🗣 Commented on [#1](https://github.com/nicoarbelaez/living-sports-app/pull/1#issuecomment-4058813704) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
 5. 🎉 Merged PR [#1](https://github.com/nicoarbelaez/my-store-picksy-api/pull/1) in [nicoarbelaez/my-store-picksy-api](https://github.com/nicoarbelaez/my-store-picksy-api)
 <!--END_SECTION:activity-->
 
