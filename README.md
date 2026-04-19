@@ -162,11 +162,11 @@ Desarrollador Full Stack con enfoque en Backend y arquitectura de software. Impl
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#27](https://github.com/nicoarbelaez/living-sports-app/pull/27) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
-2. 🎉 Merged PR [#26](https://github.com/nicoarbelaez/living-sports-app/pull/26) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
-3. 💪 Opened PR [#26](https://github.com/nicoarbelaez/living-sports-app/pull/26) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
-4. 🎉 Merged PR [#24](https://github.com/nicoarbelaez/living-sports-app/pull/24) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
-5. 💪 Opened PR [#24](https://github.com/nicoarbelaez/living-sports-app/pull/24) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+1. 💪 Opened PR [#30](https://github.com/nicoarbelaez/living-sports-app/pull/30) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+2. 🎉 Merged PR [#27](https://github.com/nicoarbelaez/living-sports-app/pull/27) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+3. 💪 Opened PR [#27](https://github.com/nicoarbelaez/living-sports-app/pull/27) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+4. 🎉 Merged PR [#26](https://github.com/nicoarbelaez/living-sports-app/pull/26) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+5. 💪 Opened PR [#26](https://github.com/nicoarbelaez/living-sports-app/pull/26) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
