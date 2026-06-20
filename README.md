@@ -162,11 +162,11 @@ Desarrollador Full Stack con enfoque en Backend y arquitectura de software. Impl
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/nicoarbelaez/readia/pull/5) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-2. 💪 Opened PR [#5](https://github.com/nicoarbelaez/readia/pull/5) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-3. ❌ Closed PR [#4](https://github.com/nicoarbelaez/readia/pull/4) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
-4. 🎉 Merged PR [#44](https://github.com/nicoarbelaez/living-sports-app/pull/44) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
-5. 💪 Opened PR [#44](https://github.com/nicoarbelaez/living-sports-app/pull/44) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
+1. 💪 Opened PR [#10](https://github.com/fabi0619/paraatletismo/pull/10) in [fabi0619/paraatletismo](https://github.com/fabi0619/paraatletismo)
+2. 🎉 Merged PR [#5](https://github.com/nicoarbelaez/readia/pull/5) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+3. 💪 Opened PR [#5](https://github.com/nicoarbelaez/readia/pull/5) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+4. ❌ Closed PR [#4](https://github.com/nicoarbelaez/readia/pull/4) in [nicoarbelaez/readia](https://github.com/nicoarbelaez/readia)
+5. 🎉 Merged PR [#44](https://github.com/nicoarbelaez/living-sports-app/pull/44) in [nicoarbelaez/living-sports-app](https://github.com/nicoarbelaez/living-sports-app)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Trophies
